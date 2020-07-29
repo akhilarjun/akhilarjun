@@ -1,4 +1,4 @@
-### Hi there, I'm [Akhil](https://akhilarjun.com) 👋
+### Hi there, I'm [Akhil](https://www.akhilarjun.com) 👋
 
 I am a UI/ UX enthusiast with immense love for javascript and CSS. 
 
