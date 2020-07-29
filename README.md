@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm [Akhil](https://akhilarjun.com) 👋
+
+I am a UI/ UX enthusiast with immense love for javascript and CSS. 
+
+You could see that with my tech stack that i work on in my most projects😉
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilarjun&layout=compact&hide_title=1&card_width=300)
+
+### More Coming Soon! 🤞✌✨
+
+
 
 <!--
 **akhilarjun/akhilarjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
