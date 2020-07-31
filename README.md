@@ -18,6 +18,7 @@ You could see that with my tech stack that i work on in my most projects
 
 ## ⚡Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lamest javascript library ever! 🙌](https://dev.to/akhilarjun/lamest-javascript-library-ever-4lnp)
 <!-- BLOG-POST-LIST:END -->
 
 ### More Coming Soon! 🤞✌✨
