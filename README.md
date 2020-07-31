@@ -2,15 +2,19 @@
 
 I am a UI/ UX enthusiast with immense love for javascript and CSS. 
 
-You could see that with my tech stack that i work on in my most projects😉
+You could see that with my tech stack that i work on in my most projects
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilarjun&layout=compact&hide_title=1&card_width=300)
 
-- 🔭 I’m currently working on [Feefo](https://feefo.herokuapp.com)
-- 🌱 I’m currently learning kind of everything and nothing! 😂
-- 💬 Ask me about Javascript, CSS, Photoshop or anything Web!
-- 📫 How to reach me: [@akhilarjun](https://twitter.com/akhilparjun)
-- 😄 Pronouns: (He/Him)
+🔭 I’m currently working on [Feefo](https://feefo.herokuapp.com) <br/>
+🌱 I’m currently learning kind of everything and nothing! 😂 <br/>
+💬 Ask me about Javascript, CSS, Photoshop or anything Web! <br/>
+🕺 Pronouns: (He/Him)
+
+### Reach out to me, let's party 👾:
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/akhil_arjun)
+[![Facebook](./assets/facebook.svg)](https://www.facebook.com/akhilarjun)
+[![Twitter](./assets/twitter.svg)](https://www.twitter.com/akhilparjun)
 
 ## ⚡Latest blog posts
 <!-- BLOG-POST-LIST:START -->
