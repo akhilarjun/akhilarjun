@@ -12,9 +12,9 @@ You could see that with my tech stack that i work on in my most projects
 🕺 Pronouns: (He/Him)
 
 ### Reach out to me, let's party 👾:
-[![Instagram](/assets/instagram.svg)](https://www.instagram.com/akhil_arjun)
-[![Facebook](/assets/facebook.svg)](https://www.facebook.com/akhilarjun)
-[![Twitter](/assets/twitter.svg)](https://www.twitter.com/akhilparjun)
+[![Instagram](/akhilarjun/akhilarjun/raw/master/assets/instagram.svg)](https://www.instagram.com/akhil_arjun)
+[![Facebook](/akhilarjun/akhilarjun/raw/master/assets/facebook.svg)](https://www.facebook.com/akhilarjun)
+[![Twitter](/akhilarjun/akhilarjun/raw/master/assets/twitter.svg)](https://www.twitter.com/akhilparjun)
 
 ## ⚡Latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,20 +24,3 @@ You could see that with my tech stack that i work on in my most projects
 ### More Coming Soon! 🤞✌✨
 
 > Icons courtesy: [Tabler Icons](https://tablericons.com/)
-
-
-
-<!--
-**akhilarjun/akhilarjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
