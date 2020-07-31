@@ -22,6 +22,8 @@ You could see that with my tech stack that i work on in my most projects
 
 ### More Coming Soon! 🤞✌✨
 
+> Icons courtesy: [Tabler Icons](https://tablericons.com/)
+
 
 
 <!--
