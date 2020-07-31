@@ -12,9 +12,9 @@ You could see that with my tech stack that i work on in my most projects
 🕺 Pronouns: (He/Him)
 
 ### Reach out to me, let's party 👾:
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/akhil_arjun)
-[![Facebook](./assets/facebook.svg)](https://www.facebook.com/akhilarjun)
-[![Twitter](./assets/twitter.svg)](https://www.twitter.com/akhilparjun)
+[![Instagram](/assets/instagram.svg)](https://www.instagram.com/akhil_arjun)
+[![Facebook](/assets/facebook.svg)](https://www.facebook.com/akhilarjun)
+[![Twitter](/assets/twitter.svg)](https://www.twitter.com/akhilparjun)
 
 ## ⚡Latest blog posts
 <!-- BLOG-POST-LIST:START -->
