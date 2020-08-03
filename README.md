@@ -18,6 +18,7 @@ You could see that with my tech stack that i work on in my most projects
 
 ## ⚡Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dark Mode - Unmistified! 🐱‍👤](https://dev.to/akhilarjun/dark-mode-unmistified-1ji6)
 - [One line - Dark Mode using CSS](https://dev.to/akhilarjun/one-line-dark-mode-using-css-24li)
 - [CSS Art: Let's create a Cute Robot - Part 1](https://dev.to/akhilarjun/css-art-let-s-create-a-cute-robot-part-1-3ng5)
 - [Lamest javascript library ever! 🙌](https://dev.to/akhilarjun/lamest-javascript-library-ever-4lnp)
