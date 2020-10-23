@@ -1,8 +1,8 @@
 ### Hi there, I'm [Akhil](https://www.akhilarjun.com) 👋
 
-I am a UI/ UX enthusiast with immense love for javascript and CSS. 
+I am a UI/ UX enthusiast with immense love for Javascript and CSS. 
 
-You could see that with my tech stack that i work on in my most projects
+You could see that with my tech stack that I work on in my projects
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilarjun&layout=compact&hide_title=1&card_width=300)
 
